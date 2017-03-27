@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['canc',['canc',['../classcanc.html',1,'']]]
+  ['boxstruct_5fstruct',['BoxStruct_struct',['../struct_box_struct__struct.html',1,'']]]
 ];

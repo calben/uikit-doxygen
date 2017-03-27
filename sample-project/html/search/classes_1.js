@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['detail',['detail',['../classdetail.html',1,'']]]
+  ['canc',['canc',['../classcanc.html',1,'']]]
 ];
